@@ -1,0 +1,12 @@
+[
+  { "color": "blue", "hex": "#009bcd" },
+  { "color": "blueviolet", "hex": "#8a2be2" },
+  { "color": "goldenrod", "hex": "#daa520" },
+  { "color": "green", "hex": "#72b626" },
+  { "color": "magenta", "hex": "#ee6192" },
+  { "color": "orange", "hex": "#009bcd" },
+  { "color": "purple", "hex": "#6957af" },
+  { "color": "red", "hex": "#f72b1c" },
+  { "color": "yellow", "hex": "#009bcd" },
+  { "color": "yellowgreen", "hex": "#9acd32" }
+]
