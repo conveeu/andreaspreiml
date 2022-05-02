@@ -12,10 +12,6 @@ const heroContent = {
 };
 
 const Hero = () => {
-  function toggleModalOne() {
-    window.location.href = "https://nextcloud.conve.eu/index.php/apps/appointments/pub/PrU0mWaGlwxa0WfXFJc803MC/form";
-  }
-
   return (
     <>
       <div className="row home-details-container align-items-center">
@@ -39,7 +35,7 @@ const Hero = () => {
               <span>{heroContent.heroDesignation}.</span>
             </h1>
             <p className="open-sans-font">{heroContent.heroDescriptions}</p>
-            <button className="button" onClick={toggleModalOne}>
+            <button className="button" data-token="c180b556c22dd5c4c66fe3607c61b225" onclick="mjOpenPopin(event, this)">
               <span className="button-text">{heroContent.heroBtn}</span>
               <span className="button-icon fa fa-arrow-right"></span>
             </button>
