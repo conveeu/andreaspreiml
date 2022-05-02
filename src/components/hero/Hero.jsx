@@ -35,6 +35,7 @@ const Hero = () => {
               <span>{heroContent.heroDesignation}.</span>
             </h1>
             <p className="open-sans-font">{heroContent.heroDescriptions}</p>
+            <data id="mj-w-res-data" data-token="c180b556c22dd5c4c66fe3607c61b225" class="mj-w-data" data-apikey="4grK" data-w-id="MSV" data-lang="de_DE" data-base="https://app.mailjet.com" data-width="640" data-height="470" data-statics="statics"></data>
             <button className="button" data-token="c180b556c22dd5c4c66fe3607c61b225" onclick="mjOpenPopin(event, this)">
               <span className="button-text">{heroContent.heroBtn}</span>
               <span className="button-icon fa fa-arrow-right"></span>
