@@ -8,7 +8,7 @@ const heroContent = {
   heroTitleName: "Andreas Preiml",
   heroDesignation: "Dein Digi-Coach",
   heroDescriptions: `Wer heute bestehen will, muss wissen was er tut. Nicht nur auf dem eigenen Fachgebiet. Alles wird mehr und mehr digital. Es braucht jemanden von außen. Einen Sparringpartner und Coach auf dem Weg zum digitalen Erfolg. Das bin ich.`,
-  heroBtn: "Kostenloses Erstgespräch vereinbaren",
+  heroBtn: "Kostenloses E-Mail-Coaching abonnieren",
 };
 
 const Hero = () => {
